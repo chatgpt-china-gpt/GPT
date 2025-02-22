@@ -1,4 +1,4 @@
-# GPT 官网：国内 ChatGPT 访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙，用上 chat gpt ）【2025/02/22】 
+# GPT 官网：国内 ChatGPT 访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙，用上 chat gpt ）【2025/02/23】 
 
 > 更新：**2025/02/22**        
 
