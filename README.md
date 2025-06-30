@@ -1,6 +1,6 @@
-# GPT 官网：国内 ChatGPT 访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙，用上 chat gpt ）【6月更新】 
+# GPT 官网：国内 ChatGPT 访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙，用上 chat gpt ）【7月更新】 
 
-> 更新日期：2025/06/29             
+> 更新日期：2025/07/02             
 
 国内可以使用的 **GPT官网**、[**ChatGPT 中文版**](https://xsimplechat.com)，**无需翻墙**，**支持 GPT-4、4o、o1 及中文本地功能**。  
 本指南提供了全面的 **ChatGPT 中文版使用指南**，涵盖国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjingai.org) 推荐和**GPT官网**使用教程，帮助您快速掌握 ChatGPT 的使用。
